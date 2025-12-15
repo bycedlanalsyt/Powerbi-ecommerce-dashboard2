@@ -1,0 +1,201 @@
+OrderID,Date,CustomerID,CustomerCountry,Product,Category,Brand,UnitPrice,Quantity,Discount,PaymentMethod,Channel,ShippingCost,Warehouse,Status,Total
+1001,2025-01-01,C0001,Spain,Phone,Multimedia,Dell,124,4,11,Bank Transfer,Marketplace,11,Lyon,Delivered,485
+1002,2025-01-02,C0002,Italy,Camera,Accessories,Dell,484,3,26,Credit Card,Web,6,Paris,Returned,1426
+1003,2025-01-03,C0003,Germany,Camera,Electronics,HP,152,1,18,PayPal,Web,1,Lille,Delivered,134
+1004,2025-01-04,C0004,Italy,Watch,Accessories,Samsung,1495,3,21,PayPal,Mobile,12,Lille,Returned,4464
+1005,2025-01-05,C0005,Italy,Laptop,Multimedia,Apple,1777,3,23,Credit Card,Web,13,Marseille,Delivered,5308
+1006,2025-01-06,C0006,Belgium,Laptop,Multimedia,Samsung,813,5,24,Credit Card,Web,16,Paris,Delivered,4041
+1007,2025-01-07,C0007,Germany,Headphones,Multimedia,Sony,787,4,6,Credit Card,Mobile,8,Lyon,Delivered,3142
+1008,2025-01-08,C0008,Germany,Watch,Electronics,Samsung,855,2,19,PayPal,Web,16,Marseille,Delivered,1691
+1009,2025-01-09,C0009,Germany,Camera,Accessories,Samsung,1379,4,5,PayPal,Web,7,Marseille,Returned,5511
+1010,2025-01-10,C0010,Italy,Tablet,Accessories,HP,147,4,20,Bank Transfer,Mobile,1,Marseille,Returned,568
+1011,2025-01-11,C0011,Spain,Watch,Accessories,HP,1923,3,23,Debit Card,Mobile,23,Lyon,Pending,5746
+1012,2025-01-12,C0012,Germany,Headphones,Multimedia,HP,847,4,0,Credit Card,Mobile,12,Marseille,Returned,3388
+1013,2025-01-13,C0013,Italy,Headphones,Electronics,Dell,1408,1,16,PayPal,Marketplace,2,Lyon,Delivered,1392
+1014,2025-01-14,C0014,Belgium,Watch,Multimedia,Sony,908,3,28,PayPal,Marketplace,15,Marseille,Pending,2696
+1015,2025-01-15,C0015,Spain,Headphones,Multimedia,HP,484,1,10,Credit Card,Mobile,5,Lyon,Pending,474
+1016,2025-01-16,C0016,Belgium,Watch,Accessories,Apple,496,2,21,Debit Card,Mobile,18,Lille,Pending,971
+1017,2025-01-17,C0017,Spain,Phone,Multimedia,Dell,1381,3,25,Credit Card,Mobile,6,Lille,Delivered,4118
+1018,2025-01-18,C0018,Italy,Watch,Accessories,Xiaomi,298,2,27,Debit Card,Marketplace,9,Lille,Returned,569
+1019,2025-01-19,C0019,France,Watch,Electronics,Apple,215,3,17,PayPal,Marketplace,8,Lille,Delivered,628
+1020,2025-01-20,C0020,Spain,Headphones,Accessories,Apple,1554,5,20,Debit Card,Web,1,Lille,Pending,7750
+1021,2025-01-21,C0021,Belgium,Headphones,Electronics,HP,1033,4,16,Bank Transfer,Web,14,Marseille,Delivered,4116
+1022,2025-01-22,C0022,Italy,Laptop,Accessories,Xiaomi,1408,5,6,PayPal,Mobile,4,Marseille,Delivered,7034
+1023,2025-01-23,C0023,Spain,Laptop,Multimedia,Xiaomi,1069,2,16,Bank Transfer,Marketplace,21,Marseille,Returned,2122
+1024,2025-01-24,C0024,France,Phone,Multimedia,Dell,591,4,19,Credit Card,Marketplace,3,Lyon,Returned,2345
+1025,2025-01-25,C0025,France,Laptop,Electronics,Xiaomi,808,3,8,Credit Card,Marketplace,19,Lyon,Pending,2416
+1026,2025-01-26,C0026,Germany,Watch,Electronics,Sony,1179,4,16,Credit Card,Mobile,3,Lyon,Delivered,4700
+1027,2025-01-27,C0027,Germany,Headphones,Electronics,HP,1636,1,19,Debit Card,Web,17,Lyon,Delivered,1617
+1028,2025-01-28,C0028,Belgium,Laptop,Accessories,Xiaomi,130,4,21,PayPal,Mobile,3,Lille,Returned,499
+1029,2025-01-29,C0029,Spain,Laptop,Accessories,Dell,182,1,21,Credit Card,Web,16,Lille,Delivered,161
+1030,2025-01-30,C0030,Spain,Phone,Electronics,Sony,846,4,27,Credit Card,Web,11,Lille,Delivered,3357
+1031,2025-01-31,C0031,Germany,Camera,Multimedia,Samsung,949,1,28,PayPal,Mobile,21,Paris,Delivered,921
+1032,2025-02-01,C0032,Spain,Phone,Accessories,Samsung,187,2,7,Credit Card,Web,16,Marseille,Returned,367
+1033,2025-02-02,C0033,Spain,Watch,Accessories,Sony,233,5,16,Bank Transfer,Web,9,Lyon,Pending,1149
+1034,2025-02-03,C0034,France,Headphones,Accessories,Dell,1474,3,6,PayPal,Marketplace,21,Lyon,Pending,4416
+1035,2025-02-04,C0035,Germany,Phone,Electronics,Sony,1403,4,0,PayPal,Web,0,Lille,Delivered,5612
+1036,2025-02-05,C0036,Italy,Laptop,Electronics,HP,834,5,12,PayPal,Mobile,21,Lyon,Pending,4158
+1037,2025-02-06,C0037,Germany,Headphones,Electronics,HP,1581,3,29,Bank Transfer,Mobile,23,Lyon,Returned,4714
+1038,2025-02-07,C0038,Italy,Headphones,Electronics,Samsung,1925,3,22,PayPal,Web,17,Marseille,Returned,5753
+1039,2025-02-08,C0039,France,Laptop,Electronics,Xiaomi,1033,1,18,Bank Transfer,Marketplace,17,Lille,Pending,1015
+1040,2025-02-09,C0040,Belgium,Phone,Multimedia,Dell,118,2,26,PayPal,Marketplace,13,Marseille,Pending,210
+1041,2025-02-10,C0041,Spain,Laptop,Multimedia,Samsung,595,2,23,Debit Card,Web,14,Paris,Delivered,1167
+1042,2025-02-11,C0042,France,Camera,Electronics,Xiaomi,1847,5,18,Credit Card,Web,11,Paris,Pending,9217
+1043,2025-02-12,C0043,Spain,Headphones,Accessories,Xiaomi,102,2,29,Debit Card,Mobile,3,Paris,Delivered,175
+1044,2025-02-13,C0044,Belgium,Tablet,Electronics,HP,1523,4,29,Credit Card,Web,2,Lille,Delivered,6063
+1045,2025-02-14,C0045,Belgium,Tablet,Multimedia,Apple,254,2,28,Bank Transfer,Marketplace,19,Lyon,Returned,480
+1046,2025-02-15,C0046,France,Watch,Multimedia,Apple,175,5,16,Debit Card,Web,11,Lille,Returned,859
+1047,2025-02-16,C0047,Belgium,Laptop,Accessories,Sony,1820,2,12,PayPal,Mobile,6,Lille,Returned,3628
+1048,2025-02-17,C0048,Italy,Laptop,Multimedia,HP,92,4,28,Credit Card,Mobile,10,Lyon,Returned,340
+1049,2025-02-18,C0049,Belgium,Watch,Electronics,Xiaomi,1825,1,29,Credit Card,Mobile,0,Marseille,Pending,1796
+1050,2025-02-19,C0050,Spain,Watch,Accessories,Dell,1956,5,15,Debit Card,Mobile,5,Paris,Returned,9765
+1051,2025-02-20,C0051,Spain,Watch,Electronics,Apple,160,1,7,Bank Transfer,Mobile,14,Marseille,Pending,153
+1052,2025-02-21,C0052,Spain,Headphones,Electronics,Xiaomi,810,1,18,Debit Card,Web,14,Paris,Returned,792
+1053,2025-02-22,C0053,Spain,Camera,Accessories,Apple,1736,1,17,Bank Transfer,Web,18,Lille,Pending,1719
+1054,2025-02-23,C0054,Italy,Laptop,Electronics,Apple,1256,3,0,Bank Transfer,Web,10,Paris,Delivered,3768
+1055,2025-02-24,C0055,Germany,Headphones,Multimedia,Apple,897,3,13,Credit Card,Web,22,Lille,Pending,2678
+1056,2025-02-25,C0056,France,Watch,Electronics,Dell,144,1,18,Debit Card,Mobile,1,Marseille,Pending,126
+1057,2025-02-26,C0057,Spain,Laptop,Accessories,HP,1447,5,14,Debit Card,Marketplace,13,Lille,Returned,7221
+1058,2025-02-27,C0058,Belgium,Headphones,Accessories,Dell,1985,4,17,Bank Transfer,Web,1,Marseille,Pending,7923
+1059,2025-02-28,C0059,Spain,Camera,Accessories,Samsung,1593,4,1,Debit Card,Marketplace,3,Lyon,Delivered,6371
+1060,2025-03-01,C0060,Belgium,Headphones,Electronics,Xiaomi,949,2,21,PayPal,Web,16,Lyon,Delivered,1877
+1061,2025-03-02,C0061,Belgium,Camera,Accessories,HP,409,5,27,PayPal,Web,2,Lyon,Returned,2018
+1062,2025-03-03,C0062,Spain,Watch,Accessories,HP,949,3,16,Debit Card,Marketplace,12,Lille,Delivered,2831
+1063,2025-03-04,C0063,Italy,Camera,Electronics,HP,1769,1,17,Debit Card,Mobile,8,Lyon,Pending,1752
+1064,2025-03-05,C0064,Belgium,Laptop,Multimedia,HP,330,2,29,Bank Transfer,Web,6,Paris,Delivered,631
+1065,2025-03-06,C0065,Belgium,Watch,Electronics,Dell,1268,4,5,PayPal,Web,14,Marseille,Returned,5067
+1066,2025-03-07,C0066,Spain,Laptop,Accessories,HP,1937,3,18,PayPal,Web,22,Marseille,Pending,5793
+1067,2025-03-08,C0067,Belgium,Tablet,Accessories,Sony,1268,3,3,Credit Card,Marketplace,10,Paris,Returned,3801
+1068,2025-03-09,C0068,Belgium,Phone,Electronics,Xiaomi,716,1,0,Bank Transfer,Mobile,19,Lille,Pending,716
+1069,2025-03-10,C0069,Spain,Camera,Multimedia,HP,142,4,7,Credit Card,Marketplace,1,Lille,Delivered,561
+1070,2025-03-11,C0070,Spain,Phone,Accessories,Xiaomi,721,5,28,PayPal,Marketplace,14,Marseille,Returned,3577
+1071,2025-03-12,C0071,France,Phone,Accessories,Sony,110,3,22,Bank Transfer,Mobile,13,Lyon,Returned,308
+1072,2025-03-13,C0072,Italy,Camera,Accessories,Sony,683,1,6,Debit Card,Marketplace,19,Lille,Pending,677
+1073,2025-03-14,C0073,Italy,Watch,Electronics,Xiaomi,1124,5,2,Bank Transfer,Mobile,21,Lille,Returned,5618
+1074,2025-03-15,C0074,Belgium,Tablet,Accessories,Apple,1476,4,9,Debit Card,Web,10,Paris,Pending,5895
+1075,2025-03-16,C0075,Italy,Laptop,Multimedia,Samsung,1862,3,9,Debit Card,Mobile,2,Paris,Pending,5577
+1076,2025-03-17,C0076,Belgium,Headphones,Accessories,Apple,1078,5,18,Bank Transfer,Web,16,Lyon,Pending,5372
+1077,2025-03-18,C0077,France,Laptop,Accessories,Apple,1539,5,13,Debit Card,Marketplace,11,Lille,Pending,7682
+1078,2025-03-19,C0078,Spain,Headphones,Multimedia,Dell,653,5,1,Credit Card,Marketplace,23,Lille,Delivered,3264
+1079,2025-03-20,C0079,Spain,Laptop,Accessories,Apple,731,3,27,PayPal,Web,20,Paris,Pending,2166
+1080,2025-03-21,C0080,Spain,Camera,Electronics,HP,1902,3,0,Debit Card,Marketplace,14,Lille,Returned,5706
+1081,2025-03-22,C0081,Italy,Tablet,Electronics,Dell,583,2,22,Credit Card,Mobile,15,Marseille,Delivered,1144
+1082,2025-03-23,C0082,France,Headphones,Electronics,Dell,1478,4,22,Debit Card,Web,4,Paris,Returned,5890
+1083,2025-03-24,C0083,Italy,Watch,Multimedia,Sony,887,1,27,PayPal,Marketplace,19,Lyon,Delivered,860
+1084,2025-03-25,C0084,Italy,Laptop,Accessories,Apple,1586,5,17,Credit Card,Web,5,Paris,Pending,7913
+1085,2025-03-26,C0085,France,Laptop,Electronics,Sony,694,2,6,PayPal,Mobile,18,Lille,Delivered,1382
+1086,2025-03-27,C0086,France,Headphones,Multimedia,Xiaomi,282,1,28,PayPal,Mobile,24,Lyon,Delivered,254
+1087,2025-03-28,C0087,France,Watch,Accessories,Samsung,573,2,7,Credit Card,Marketplace,4,Paris,Returned,1139
+1088,2025-03-29,C0088,France,Watch,Multimedia,Dell,395,3,0,Credit Card,Mobile,2,Marseille,Returned,1185
+1089,2025-03-30,C0089,Spain,Camera,Electronics,Xiaomi,1119,5,24,Credit Card,Web,0,Marseille,Pending,5571
+1090,2025-03-31,C0090,Germany,Camera,Electronics,Xiaomi,595,1,22,Bank Transfer,Mobile,5,Paris,Delivered,573
+1091,2025-04-01,C0091,Germany,Camera,Electronics,HP,1151,1,2,Credit Card,Web,14,Marseille,Delivered,1149
+1092,2025-04-02,C0092,France,Camera,Multimedia,Samsung,1803,1,23,Credit Card,Web,1,Marseille,Delivered,1780
+1093,2025-04-03,C0093,Germany,Camera,Multimedia,Xiaomi,1886,1,22,Credit Card,Mobile,2,Marseille,Pending,1864
+1094,2025-04-04,C0094,Germany,Camera,Electronics,Xiaomi,1996,1,26,Credit Card,Marketplace,16,Lyon,Pending,1970
+1095,2025-04-05,C0095,France,Tablet,Multimedia,Samsung,1146,2,28,Debit Card,Mobile,24,Marseille,Pending,2264
+1096,2025-04-06,C0096,Germany,Watch,Electronics,Samsung,843,5,7,Bank Transfer,Web,23,Marseille,Pending,4208
+1097,2025-04-07,C0097,Italy,Camera,Electronics,Xiaomi,298,3,21,PayPal,Web,11,Marseille,Pending,873
+1098,2025-04-08,C0098,Belgium,Watch,Accessories,Samsung,96,3,24,Credit Card,Mobile,17,Lyon,Returned,264
+1099,2025-04-09,C0099,Belgium,Watch,Multimedia,Xiaomi,1194,3,14,Debit Card,Marketplace,14,Paris,Delivered,3568
+1100,2025-04-10,C0100,France,Phone,Electronics,Xiaomi,263,3,4,Debit Card,Marketplace,11,Lille,Delivered,785
+1101,2025-04-11,C0101,Spain,Tablet,Electronics,HP,288,2,2,Debit Card,Web,15,Marseille,Delivered,574
+1102,2025-04-12,C0102,France,Camera,Multimedia,Apple,1129,4,18,PayPal,Web,7,Paris,Delivered,4498
+1103,2025-04-13,C0103,Spain,Laptop,Accessories,Xiaomi,399,5,0,Credit Card,Marketplace,13,Marseille,Delivered,1995
+1104,2025-04-14,C0104,Belgium,Headphones,Accessories,Sony,156,1,27,Bank Transfer,Mobile,24,Lyon,Delivered,129
+1105,2025-04-15,C0105,France,Laptop,Electronics,Dell,880,4,14,Bank Transfer,Web,16,Paris,Delivered,3506
+1106,2025-04-16,C0106,Italy,Tablet,Multimedia,Apple,97,3,7,Debit Card,Web,20,Lyon,Delivered,284
+1107,2025-04-17,C0107,Germany,Headphones,Accessories,Apple,1646,4,1,PayPal,Marketplace,7,Marseille,Returned,6583
+1108,2025-04-18,C0108,Spain,Tablet,Multimedia,Apple,386,5,2,PayPal,Mobile,14,Marseille,Delivered,1928
+1109,2025-04-19,C0109,Germany,Watch,Multimedia,HP,1099,1,23,PayPal,Marketplace,13,Lyon,Returned,1076
+1110,2025-04-20,C0110,Germany,Headphones,Electronics,Xiaomi,853,1,13,Bank Transfer,Mobile,17,Lille,Pending,840
+1111,2025-04-21,C0111,France,Watch,Accessories,HP,1330,5,23,Debit Card,Mobile,19,Lyon,Delivered,6627
+1112,2025-04-22,C0112,Germany,Laptop,Electronics,Xiaomi,57,5,13,Credit Card,Mobile,6,Marseille,Pending,272
+1113,2025-04-23,C0113,Italy,Laptop,Accessories,HP,674,3,10,Bank Transfer,Web,2,Lyon,Pending,2012
+1114,2025-04-24,C0114,Germany,Headphones,Accessories,HP,1940,1,15,Debit Card,Marketplace,11,Lille,Pending,1925
+1115,2025-04-25,C0115,France,Headphones,Accessories,Dell,1326,4,3,Debit Card,Marketplace,20,Lyon,Returned,5301
+1116,2025-04-26,C0116,Italy,Camera,Accessories,Sony,1765,2,19,Credit Card,Mobile,23,Lille,Pending,3511
+1117,2025-04-27,C0117,Belgium,Tablet,Accessories,HP,768,2,4,Credit Card,Web,2,Lille,Pending,1532
+1118,2025-04-28,C0118,Germany,Camera,Multimedia,Dell,352,5,21,Credit Card,Web,19,Lyon,Pending,1739
+1119,2025-04-29,C0119,France,Tablet,Electronics,Samsung,688,3,20,PayPal,Marketplace,13,Lyon,Delivered,2044
+1120,2025-04-30,C0120,Belgium,Camera,Multimedia,Sony,105,2,13,Credit Card,Web,14,Paris,Delivered,197
+1121,2025-05-01,C0121,Belgium,Watch,Accessories,HP,775,1,22,Debit Card,Web,24,Marseille,Returned,753
+1122,2025-05-02,C0122,Spain,Headphones,Electronics,Apple,575,5,15,Credit Card,Mobile,13,Lille,Returned,2860
+1123,2025-05-03,C0123,Italy,Laptop,Accessories,Samsung,523,4,17,Debit Card,Web,6,Paris,Delivered,2075
+1124,2025-05-04,C0124,Germany,Tablet,Electronics,Samsung,77,5,6,Bank Transfer,Mobile,16,Lyon,Returned,379
+1125,2025-05-05,C0125,France,Tablet,Multimedia,Dell,127,4,9,PayPal,Marketplace,11,Marseille,Delivered,499
+1126,2025-05-06,C0126,Spain,Laptop,Electronics,Samsung,1289,5,6,Bank Transfer,Web,19,Paris,Pending,6439
+1127,2025-05-07,C0127,Italy,Camera,Electronics,Sony,1459,5,0,Bank Transfer,Marketplace,3,Lille,Pending,7295
+1128,2025-05-08,C0128,Spain,Tablet,Electronics,HP,414,5,22,Debit Card,Marketplace,8,Paris,Returned,2048
+1129,2025-05-09,C0129,Italy,Watch,Electronics,HP,715,4,20,Bank Transfer,Web,5,Lille,Delivered,2840
+1130,2025-05-10,C0130,Italy,Headphones,Electronics,Apple,575,4,18,Debit Card,Web,15,Lyon,Delivered,2282
+1131,2025-05-11,C0131,Germany,Laptop,Accessories,Dell,748,5,15,Credit Card,Marketplace,24,Marseille,Returned,3725
+1132,2025-05-12,C0132,Italy,Headphones,Electronics,Apple,1385,2,28,Credit Card,Web,21,Marseille,Delivered,2742
+1133,2025-05-13,C0133,Spain,Tablet,Electronics,Samsung,932,3,18,Debit Card,Mobile,21,Marseille,Pending,2778
+1134,2025-05-14,C0134,Italy,Tablet,Multimedia,Apple,1080,3,3,Credit Card,Mobile,20,Lyon,Returned,3237
+1135,2025-05-15,C0135,Germany,Laptop,Electronics,Sony,1076,3,28,PayPal,Web,20,Lille,Returned,3200
+1136,2025-05-16,C0136,Germany,Watch,Multimedia,HP,1696,4,27,Bank Transfer,Marketplace,1,Lyon,Delivered,6757
+1137,2025-05-17,C0137,Spain,Phone,Accessories,Samsung,968,4,17,PayPal,Web,23,Marseille,Returned,3855
+1138,2025-05-18,C0138,Belgium,Laptop,Electronics,Apple,799,2,1,Bank Transfer,Web,7,Lyon,Delivered,1597
+1139,2025-05-19,C0139,Belgium,Phone,Multimedia,Dell,412,3,0,Credit Card,Marketplace,10,Lyon,Delivered,1236
+1140,2025-05-20,C0140,Italy,Camera,Multimedia,Sony,1824,3,14,PayPal,Marketplace,12,Lyon,Delivered,5458
+1141,2025-05-21,C0141,France,Phone,Accessories,Sony,1581,5,4,Credit Card,Mobile,16,Lille,Delivered,7901
+1142,2025-05-22,C0142,Italy,Watch,Electronics,Apple,1347,4,19,Bank Transfer,Marketplace,7,Paris,Delivered,5369
+1143,2025-05-23,C0143,Spain,Camera,Electronics,HP,1579,3,10,Debit Card,Mobile,20,Paris,Returned,4727
+1144,2025-05-24,C0144,Spain,Phone,Multimedia,Apple,855,2,9,Debit Card,Marketplace,17,Lyon,Pending,1701
+1145,2025-05-25,C0145,Spain,Camera,Electronics,Samsung,788,2,1,PayPal,Web,17,Paris,Pending,1575
+1146,2025-05-26,C0146,Spain,Phone,Multimedia,Apple,1956,3,2,Credit Card,Mobile,13,Paris,Returned,5866
+1147,2025-05-27,C0147,Spain,Watch,Electronics,Sony,1088,4,22,Credit Card,Mobile,14,Lyon,Returned,4330
+1148,2025-05-28,C0148,Germany,Phone,Multimedia,Apple,1265,2,22,PayPal,Mobile,5,Lyon,Pending,2508
+1149,2025-05-29,C0149,Belgium,Phone,Electronics,HP,1704,5,11,Debit Card,Web,10,Marseille,Pending,8509
+1150,2025-05-30,C0150,Spain,Phone,Accessories,Dell,534,2,19,Bank Transfer,Web,12,Paris,Pending,1049
+1151,2025-05-31,C0151,France,Laptop,Electronics,Xiaomi,77,1,4,PayPal,Web,24,Lille,Pending,73
+1152,2025-06-01,C0152,France,Laptop,Electronics,Apple,763,1,4,Bank Transfer,Web,0,Lyon,Pending,759
+1153,2025-06-02,C0153,France,Laptop,Accessories,HP,1112,4,5,Debit Card,Web,5,Marseille,Delivered,4443
+1154,2025-06-03,C0154,France,Watch,Electronics,HP,1346,3,29,Credit Card,Mobile,8,Lille,Returned,4009
+1155,2025-06-04,C0155,Germany,Camera,Accessories,Dell,1304,4,8,Debit Card,Web,7,Paris,Delivered,5208
+1156,2025-06-05,C0156,France,Tablet,Electronics,Sony,135,4,1,PayPal,Mobile,10,Marseille,Pending,539
+1157,2025-06-06,C0157,Spain,Phone,Multimedia,HP,1547,4,20,Credit Card,Web,21,Lyon,Pending,6168
+1158,2025-06-07,C0158,Italy,Phone,Multimedia,HP,175,4,11,PayPal,Marketplace,18,Lille,Pending,689
+1159,2025-06-08,C0159,France,Watch,Electronics,HP,861,5,2,PayPal,Mobile,23,Lyon,Delivered,4303
+1160,2025-06-09,C0160,Germany,Phone,Electronics,HP,586,5,19,Debit Card,Marketplace,8,Paris,Delivered,2911
+1161,2025-06-10,C0161,Germany,Laptop,Electronics,Samsung,194,2,25,PayPal,Mobile,16,Lille,Pending,363
+1162,2025-06-11,C0162,France,Tablet,Multimedia,Samsung,1598,1,21,Debit Card,Marketplace,11,Paris,Delivered,1577
+1163,2025-06-12,C0163,Italy,Headphones,Electronics,Sony,1285,4,11,Credit Card,Web,24,Paris,Delivered,5129
+1164,2025-06-13,C0164,France,Phone,Multimedia,Apple,74,2,23,Debit Card,Web,13,Marseille,Pending,125
+1165,2025-06-14,C0165,Germany,Laptop,Accessories,HP,1653,1,16,Credit Card,Web,14,Lyon,Delivered,1637
+1166,2025-06-15,C0166,Belgium,Headphones,Multimedia,Dell,1467,3,9,Debit Card,Mobile,15,Lille,Returned,4392
+1167,2025-06-16,C0167,Spain,Tablet,Multimedia,Apple,116,5,29,Bank Transfer,Marketplace,21,Paris,Returned,551
+1168,2025-06-17,C0168,Germany,Headphones,Accessories,Dell,282,1,23,Bank Transfer,Web,21,Paris,Returned,259
+1169,2025-06-18,C0169,France,Laptop,Multimedia,Apple,158,3,26,PayPal,Marketplace,19,Lille,Returned,448
+1170,2025-06-19,C0170,Spain,Camera,Electronics,Sony,1219,1,13,Debit Card,Marketplace,0,Paris,Pending,1206
+1171,2025-06-20,C0171,France,Camera,Electronics,HP,160,5,22,Debit Card,Web,9,Marseille,Pending,778
+1172,2025-06-21,C0172,France,Headphones,Multimedia,HP,277,5,16,Credit Card,Web,7,Marseille,Pending,1369
+1173,2025-06-22,C0173,Belgium,Watch,Electronics,Xiaomi,160,2,17,PayPal,Marketplace,17,Marseille,Returned,303
+1174,2025-06-23,C0174,Spain,Headphones,Multimedia,Dell,1543,4,18,Debit Card,Web,0,Marseille,Returned,6154
+1175,2025-06-24,C0175,Spain,Phone,Electronics,Apple,83,1,16,PayPal,Web,1,Paris,Delivered,67
+1176,2025-06-25,C0176,Belgium,Phone,Electronics,Apple,672,1,13,Bank Transfer,Web,0,Lille,Delivered,659
+1177,2025-06-26,C0177,Germany,Camera,Multimedia,Samsung,1849,3,8,Debit Card,Mobile,0,Lille,Returned,5539
+1178,2025-06-27,C0178,France,Watch,Electronics,Xiaomi,1442,5,7,Debit Card,Marketplace,8,Lille,Returned,7203
+1179,2025-06-28,C0179,Italy,Laptop,Multimedia,Samsung,797,1,1,PayPal,Marketplace,12,Lille,Returned,796
+1180,2025-06-29,C0180,France,Phone,Electronics,Samsung,644,5,12,Debit Card,Mobile,0,Lyon,Returned,3208
+1181,2025-06-30,C0181,France,Camera,Electronics,Samsung,1627,1,24,PayPal,Marketplace,12,Lille,Delivered,1603
+1182,2025-07-01,C0182,Germany,Tablet,Accessories,Dell,474,2,6,Debit Card,Web,19,Lyon,Returned,942
+1183,2025-07-02,C0183,France,Camera,Accessories,Dell,662,4,8,Credit Card,Marketplace,21,Lyon,Delivered,2640
+1184,2025-07-03,C0184,Belgium,Phone,Multimedia,Sony,1591,1,21,PayPal,Web,6,Marseille,Returned,1570
+1185,2025-07-04,C0185,Belgium,Phone,Accessories,Sony,741,5,21,Debit Card,Mobile,1,Lyon,Returned,3684
+1186,2025-07-05,C0186,Spain,Camera,Multimedia,Samsung,1355,2,10,Bank Transfer,Web,5,Paris,Returned,2700
+1187,2025-07-06,C0187,Italy,Laptop,Accessories,Xiaomi,1393,1,13,Debit Card,Marketplace,6,Lyon,Delivered,1380
+1188,2025-07-07,C0188,France,Headphones,Electronics,Apple,1811,3,3,Bank Transfer,Marketplace,13,Marseille,Delivered,5430
+1189,2025-07-08,C0189,France,Phone,Multimedia,Dell,1516,4,25,Bank Transfer,Marketplace,17,Lyon,Pending,6039
+1190,2025-07-09,C0190,Germany,Camera,Multimedia,Xiaomi,364,1,25,Credit Card,Mobile,14,Paris,Returned,339
+1191,2025-07-10,C0191,Belgium,Camera,Electronics,HP,926,2,28,PayPal,Mobile,1,Paris,Pending,1824
+1192,2025-07-11,C0192,Italy,Watch,Multimedia,Dell,1814,3,12,Debit Card,Marketplace,9,Paris,Pending,5430
+1193,2025-07-12,C0193,Spain,Headphones,Multimedia,Dell,1450,2,1,Credit Card,Web,22,Marseille,Delivered,2899
+1194,2025-07-13,C0194,Belgium,Tablet,Accessories,Sony,1362,2,22,Debit Card,Mobile,11,Marseille,Delivered,2702
+1195,2025-07-14,C0195,Spain,Laptop,Multimedia,Apple,1510,3,4,Bank Transfer,Marketplace,16,Lille,Pending,4526
+1196,2025-07-15,C0196,Germany,Tablet,Electronics,Apple,711,2,10,PayPal,Marketplace,7,Marseille,Returned,1412
+1197,2025-07-16,C0197,Germany,Headphones,Accessories,HP,326,3,5,Debit Card,Mobile,10,Paris,Delivered,973
+1198,2025-07-17,C0198,France,Headphones,Accessories,HP,1783,1,17,Debit Card,Mobile,2,Paris,Returned,1766
+1199,2025-07-18,C0199,Italy,Headphones,Electronics,Dell,1655,3,20,Bank Transfer,Mobile,5,Marseille,Returned,4945
+1200,2025-07-19,C0200,Spain,Tablet,Electronics,Samsung,1576,3,9,Debit Card,Web,8,Lyon,Pending,4719
