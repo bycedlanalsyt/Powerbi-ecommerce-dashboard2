@@ -99,8 +99,8 @@ Le projet suit une démarche classique de Business Intelligence :
 **Cédric BOIMIN**
 Data Analyst | Business Intelligence | Big Data & IA
 
-🔗 Portfolio : *(à ajouter)*
-🔗 LinkedIn : *(à ajouter)*
+🔗 Portfolio : https://bycedlanalsyt.github.io/ 
+🔗 LinkedIn  : https://www.linkedin.com/in/cedric-boimin
 
 ---
 
